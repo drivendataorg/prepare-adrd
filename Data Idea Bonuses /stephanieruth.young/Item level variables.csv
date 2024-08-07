@@ -1,0 +1,476 @@
+﻿Variable ,Source,Description ,Type,Notes
+id,app data,Participant ID,String,
+start_date_task,MyCog Mobile,Date and time of assessment,Date,
+MCM_MyPictures_Chores_Trial2_Pic1,MyCog Mobile,MyCog Mobile MyPictures Trial 2 Live Item 1,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial2_Pic2,MyCog Mobile,MyCog Mobile MyPictures Trial 2 Live Item 2,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial2_Pic3,MyCog Mobile,MyCog Mobile MyPictures Trial 2 Live Item 3,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial2_Pic4,MyCog Mobile,MyCog Mobile MyPictures Trial 2 Live Item 4,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial2_Pic5,MyCog Mobile,MyCog Mobile MyPictures Trial 2 Live Item 5,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial2_Pic6,MyCog Mobile,MyCog Mobile MyPictures Trial 2 Live Item 6,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial2_Pic7,MyCog Mobile,MyCog Mobile MyPictures Trial 2 Live Item 7,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial2_Pic8,MyCog Mobile,MyCog Mobile MyPictures Trial 2 Live Item 8,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial2_Pic9,MyCog Mobile,MyCog Mobile MyPictures Trial 2 Live Item 9,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial2_Pic10,MyCog Mobile,MyCog Mobile MyPictures Trial 2 Live Item 10,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial2_Pic11,MyCog Mobile,MyCog Mobile MyPictures Trial 2 Live Item 11,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial2_Pic12,MyCog Mobile,MyCog Mobile MyPictures Trial 2 Live Item 12,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial2_Pic13,MyCog Mobile,MyCog Mobile MyPictures Trial 2 Live Item 13,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial2_Pic14,MyCog Mobile,MyCog Mobile MyPictures Trial 2 Live Item 14,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial3_Pic1,MyCog Mobile,MyCog Mobile MyPictures Trial 3 Live Item 1,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial3_Pic2,MyCog Mobile,MyCog Mobile MyPictures Trial 3 Live Item 2,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial3_Pic3,MyCog Mobile,MyCog Mobile MyPictures Trial 3 Live Item 3,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial3_Pic4,MyCog Mobile,MyCog Mobile MyPictures Trial 3 Live Item 4,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial3_Pic5,MyCog Mobile,MyCog Mobile MyPictures Trial 3 Live Item 5,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial3_Pic6,MyCog Mobile,MyCog Mobile MyPictures Trial 3 Live Item 6,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial3_Pic7,MyCog Mobile,MyCog Mobile MyPictures Trial 3 Live Item 7,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial3_Pic8,MyCog Mobile,MyCog Mobile MyPictures Trial 3 Live Item 8,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial3_Pic9,MyCog Mobile,MyCog Mobile MyPictures Trial 3 Live Item 9,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial3_Pic10,MyCog Mobile,MyCog Mobile MyPictures Trial 3 Live Item 10,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial3_Pic11,MyCog Mobile,MyCog Mobile MyPictures Trial 3 Live Item 11,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial3_Pic12,MyCog Mobile,MyCog Mobile MyPictures Trial 3 Live Item 12,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial3_Pic13,MyCog Mobile,MyCog Mobile MyPictures Trial 3 Live Item 13,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MyPictures_Chores_Trial3_Pic14,MyCog Mobile,MyCog Mobile MyPictures Trial 3 Live Item 14,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MCM_MySequences_2_1,MyCog Mobile,MyCog Mobile MySequences 2 Item Sequence Item 1,Categorical,"0=Incorrect order, 1=Correct order"
+MCM_MySequences_2_2,MyCog Mobile,MyCog Mobile MySequences 2 Item Sequence Item 2,Categorical,"0=Incorrect order, 1=Correct order"
+MCM_MySequences_2_3,MyCog Mobile,MyCog Mobile MySequences 2 Item Sequence Item 3,Categorical,"0=Incorrect order, 1=Correct order"
+MCM_MySequences_3_1,MyCog Mobile,MyCog Mobile MySequences 3 Item Sequence Item 1,Categorical,"0=Incorrect order, 1=Correct order"
+MCM_MySequences_3_2,MyCog Mobile,MyCog Mobile MySequences 3 Item Sequence Item 2,Categorical,"0=Incorrect order, 1=Correct order"
+MCM_MySequences_3_3,MyCog Mobile,MyCog Mobile MySequences 3 Item Sequence Item 3,Categorical,"0=Incorrect order, 1=Correct order"
+MCM_MySequences_3_4,MyCog Mobile,MyCog Mobile MySequences 3 Item Sequence Item 4,Categorical,"0=Incorrect order, 1=Correct order"
+MCM_MySequences_3_5,MyCog Mobile,MyCog Mobile MySequences 3 Item Sequence Item 5,Categorical,"0=Incorrect order, 1=Correct order"
+MCM_MySequences_3_6,MyCog Mobile,MyCog Mobile MySequences 3 Item Sequence Item 6,Categorical,"0=Incorrect order, 1=Correct order"
+MCM_MySequences_4_1,MyCog Mobile,MyCog Mobile MySequences 4 Item Sequence Item 1,Categorical,"0=Incorrect order, 1=Correct order"
+MCM_MySequences_4_2,MyCog Mobile,MyCog Mobile MySequences 4 Item Sequence Item 2,Categorical,"0=Incorrect order, 1=Correct order"
+MCM_MySequences_4_3,MyCog Mobile,MyCog Mobile MySequences 4 Item Sequence Item 3,Categorical,"0=Incorrect order, 1=Correct order"
+MCM_MySequences_5_1,MyCog Mobile,MyCog Mobile MySequences 5 Item Sequence Item 1,Categorical,"0=Incorrect order, 1=Correct order"
+MCM_MySequences_5_2,MyCog Mobile,MyCog Mobile MySequences 5 Item Sequence Item 2,Categorical,"0=Incorrect order, 1=Correct order"
+MCM_MySequences_5_3,MyCog Mobile,MyCog Mobile MySequences 5 Item Sequence Item 3,Categorical,"0=Incorrect order, 1=Correct order"
+MCM_FSBT_A_01,MyCog Mobile,MyCog Mobile MyFaces 'Faces Seen Before' Item 1,Categorical,"0=Incorrect, 1=Correct"
+MCM_FSBT_A_02,MyCog Mobile,MyCog Mobile MyFaces 'Faces Seen Before' Item 2,Categorical,"0=Incorrect, 1=Correct"
+MCM_FSBT_A_03,MyCog Mobile,MyCog Mobile MyFaces 'Faces Seen Before' Item 3,Categorical,"0=Incorrect, 1=Correct"
+MCM_FSBT_A_04,MyCog Mobile,MyCog Mobile MyFaces 'Faces Seen Before' Item 4,Categorical,"0=Incorrect, 1=Correct"
+MCM_FSBT_A_05,MyCog Mobile,MyCog Mobile MyFaces 'Faces Seen Before' Item 5,Categorical,"0=Incorrect, 1=Correct"
+MCM_FSBT_A_06,MyCog Mobile,MyCog Mobile MyFaces 'Faces Seen Before' Item 6,Categorical,"0=Incorrect, 1=Correct"
+MCM_FSBT_A_07,MyCog Mobile,MyCog Mobile MyFaces 'Faces Seen Before' Item 7,Categorical,"0=Incorrect, 1=Correct"
+MCM_FSBT_A_08,MyCog Mobile,MyCog Mobile MyFaces 'Faces Seen Before' Item 8,Categorical,"0=Incorrect, 1=Correct"
+MCM_FSBT_A_09,MyCog Mobile,MyCog Mobile MyFaces 'Faces Seen Before' Item 9,Categorical,"0=Incorrect, 1=Correct"
+MCM_FSBT_A_10,MyCog Mobile,MyCog Mobile MyFaces 'Faces Seen Before' Item 10,Categorical,"0=Incorrect, 1=Correct"
+MCM_FSBT_A_11,MyCog Mobile,MyCog Mobile MyFaces 'Faces Seen Before' Item 11,Categorical,"0=Incorrect, 1=Correct"
+MCM_FSBT_A_12,MyCog Mobile,MyCog Mobile MyFaces 'Faces Seen Before' Item 12,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNLT_A_01,MyCog Mobile,MyCog Mobile MyFaces 'First Letter of Name' Item 1,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNLT_A_02,MyCog Mobile,MyCog Mobile MyFaces 'First Letter of Name' Item 2,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNLT_A_03,MyCog Mobile,MyCog Mobile MyFaces 'First Letter of Name' Item 3,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNLT_A_04,MyCog Mobile,MyCog Mobile MyFaces 'First Letter of Name' Item 4,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNLT_A_05,MyCog Mobile,MyCog Mobile MyFaces 'First Letter of Name' Item 5,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNLT_A_06,MyCog Mobile,MyCog Mobile MyFaces 'First Letter of Name' Item 6,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNLT_A_07,MyCog Mobile,MyCog Mobile MyFaces 'First Letter of Name' Item 7,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNLT_A_08,MyCog Mobile,MyCog Mobile MyFaces 'First Letter of Name' Item 8,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNLT_A_09,MyCog Mobile,MyCog Mobile MyFaces 'First Letter of Name' Item 9,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNLT_A_10,MyCog Mobile,MyCog Mobile MyFaces 'First Letter of Name' Item 10,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNLT_A_11,MyCog Mobile,MyCog Mobile MyFaces 'First Letter of Name' Item 11,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNLT_A_12,MyCog Mobile,MyCog Mobile MyFaces 'First Letter of Name' Item 12,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNMT_A_01,MyCog Mobile,MyCog Mobile MyFaces 'Face Name Matching' Item 1,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNMT_A_02,MyCog Mobile,MyCog Mobile MyFaces 'Face Name Matching' Item 2,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNMT_A_03,MyCog Mobile,MyCog Mobile MyFaces 'Face Name Matching' Item 3,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNMT_A_04,MyCog Mobile,MyCog Mobile MyFaces 'Face Name Matching' Item 4,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNMT_A_05,MyCog Mobile,MyCog Mobile MyFaces 'Face Name Matching' Item 5,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNMT_A_06,MyCog Mobile,MyCog Mobile MyFaces 'Face Name Matching' Item 6,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNMT_A_07,MyCog Mobile,MyCog Mobile MyFaces 'Face Name Matching' Item 7,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNMT_A_08,MyCog Mobile,MyCog Mobile MyFaces 'Face Name Matching' Item 8,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNMT_A_09,MyCog Mobile,MyCog Mobile MyFaces 'Face Name Matching' Item 9,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNMT_A_10,MyCog Mobile,MyCog Mobile MyFaces 'Face Name Matching' Item 10,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNMT_A_11,MyCog Mobile,MyCog Mobile MyFaces 'Face Name Matching' Item 11,Categorical,"0=Incorrect, 1=Correct"
+MCM_FNMT_A_12,MyCog Mobile,MyCog Mobile MyFaces 'Face Name Matching' Item 12,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A1,MyCog Mobile,MyCog Mobile MySorting Live Item Score 1,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A2,MyCog Mobile,MyCog Mobile MySorting Live Item Score 2,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A3,MyCog Mobile,MyCog Mobile MySorting Live Item Score 3,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A4,MyCog Mobile,MyCog Mobile MySorting Live Item Score 4,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A5,MyCog Mobile,MyCog Mobile MySorting Live Item Score 5,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A6,MyCog Mobile,MyCog Mobile MySorting Live Item Score 6,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A7,MyCog Mobile,MyCog Mobile MySorting Live Item Score 7,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A8,MyCog Mobile,MyCog Mobile MySorting Live Item Score 8,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A9,MyCog Mobile,MyCog Mobile MySorting Live Item Score 9,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A10,MyCog Mobile,MyCog Mobile MySorting Live Item Score 10,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A11,MyCog Mobile,MyCog Mobile MySorting Live Item Score 11,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A12,MyCog Mobile,MyCog Mobile MySorting Live Item Score 12,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A13,MyCog Mobile,MyCog Mobile MySorting Live Item Score 13,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A14,MyCog Mobile,MyCog Mobile MySorting Live Item Score 14,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A15,MyCog Mobile,MyCog Mobile MySorting Live Item Score 15,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A16,MyCog Mobile,MyCog Mobile MySorting Live Item Score 16,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A17,MyCog Mobile,MyCog Mobile MySorting Live Item Score 17,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A18,MyCog Mobile,MyCog Mobile MySorting Live Item Score 18,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A19,MyCog Mobile,MyCog Mobile MySorting Live Item Score 19,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A20,MyCog Mobile,MyCog Mobile MySorting Live Item Score 20,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A21,MyCog Mobile,MyCog Mobile MySorting Live Item Score 21,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A22,MyCog Mobile,MyCog Mobile MySorting Live Item Score 22,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A23,MyCog Mobile,MyCog Mobile MySorting Live Item Score 23,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A24,MyCog Mobile,MyCog Mobile MySorting Live Item Score 24,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A25,MyCog Mobile,MyCog Mobile MySorting Live Item Score 25,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A26,MyCog Mobile,MyCog Mobile MySorting Live Item Score 26,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A27,MyCog Mobile,MyCog Mobile MySorting Live Item Score 27,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A28,MyCog Mobile,MyCog Mobile MySorting Live Item Score 28,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A29,MyCog Mobile,MyCog Mobile MySorting Live Item Score 29,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_Score_c_A30,MyCog Mobile,MyCog Mobile MySorting Live Item Score 30,Categorical,"0=Incorrect, 1=Correct"
+MCM_MySorting_MIXED_reaction_c_A1,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 1,String,
+MCM_MySorting_MIXED_reaction_c_A2,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 2,String,
+MCM_MySorting_MIXED_reaction_c_A3,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 3,String,
+MCM_MySorting_MIXED_reaction_c_A4,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 4,String,
+MCM_MySorting_MIXED_reaction_c_A5,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 5,String,
+MCM_MySorting_MIXED_reaction_c_A6,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 6,String,
+MCM_MySorting_MIXED_reaction_c_A7,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 7,String,
+MCM_MySorting_MIXED_reaction_c_A8,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 8,String,
+MCM_MySorting_MIXED_reaction_c_A9,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 9,String,
+MCM_MySorting_MIXED_reaction_c_A10,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 10,String,
+MCM_MySorting_MIXED_reaction_c_A11,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 11,String,
+MCM_MySorting_MIXED_reaction_c_A12,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 12,String,
+MCM_MySorting_MIXED_reaction_c_A13,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 13,String,
+MCM_MySorting_MIXED_reaction_c_A14,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 14,String,
+MCM_MySorting_MIXED_reaction_c_A15,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 15,String,
+MCM_MySorting_MIXED_reaction_c_A16,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 16,String,
+MCM_MySorting_MIXED_reaction_c_A17,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 17,String,
+MCM_MySorting_MIXED_reaction_c_A18,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 18,String,
+MCM_MySorting_MIXED_reaction_c_A19,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 19,String,
+MCM_MySorting_MIXED_reaction_c_A20,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 20,String,
+MCM_MySorting_MIXED_reaction_c_A21,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 21,String,
+MCM_MySorting_MIXED_reaction_c_A22,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 22,String,
+MCM_MySorting_MIXED_reaction_c_A23,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 23,String,
+MCM_MySorting_MIXED_reaction_c_A24,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 24,String,
+MCM_MySorting_MIXED_reaction_c_A25,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 25,String,
+MCM_MySorting_MIXED_reaction_c_A26,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 26,String,
+MCM_MySorting_MIXED_reaction_c_A27,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 27,String,
+MCM_MySorting_MIXED_reaction_c_A28,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 28,String,
+MCM_MySorting_MIXED_reaction_c_A29,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 29,String,
+MCM_MySorting_MIXED_reaction_c_A30,MyCog Mobile,MyCog Mobile MySorting Live Item Reaction 30,String,
+MYCOG_SADCCS_SHAPE_PRAC1,MyCog,MyCog DCCS Practice,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_SADCCS_SHAPE_PRAC2,MyCog,MyCog DCCS Practice,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_SADCCS_SHAPE_PRAC3,MyCog,MyCog DCCS Practice,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_SADCCS_SHAPE_PRAC4,MyCog,MyCog DCCS Practice,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_SADCCS_SHAPE_PRAC5,MyCog,MyCog DCCS Practice,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_SADCCS_COLOR_PRAC1,MyCog,MyCog DCCS Practice,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_SADCCS_COLOR_PRAC2,MyCog,MyCog DCCS Practice,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_SADCCS_COLOR_PRAC3,MyCog,MyCog DCCS Practice,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_SADCCS_COLOR_PRAC4,MyCog,MyCog DCCS Practice,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_SADCCS_COLOR_PRAC5,MyCog,MyCog DCCS Practice,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL1,MyCog,MyCog DCCS Live Item 1,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL2,MyCog,MyCog DCCS Live Item 2,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL3,MyCog,MyCog DCCS Live Item 3,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL4,MyCog,MyCog DCCS Live Item 4,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL5,MyCog,MyCog DCCS Live Item 5,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL6,MyCog,MyCog DCCS Live Item 6,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL7,MyCog,MyCog DCCS Live Item 7,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL8,MyCog,MyCog DCCS Live Item 8,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL9,MyCog,MyCog DCCS Live Item 9,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL10,MyCog,MyCog DCCS Live Item 10,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL11,MyCog,MyCog DCCS Live Item 11,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL12,MyCog,MyCog DCCS Live Item 12,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL13,MyCog,MyCog DCCS Live Item 13,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL14,MyCog,MyCog DCCS Live Item 14,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL15,MyCog,MyCog DCCS Live Item 15,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL16,MyCog,MyCog DCCS Live Item 16,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL17,MyCog,MyCog DCCS Live Item 17,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL18,MyCog,MyCog DCCS Live Item 18,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL19,MyCog,MyCog DCCS Live Item 19,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL20,MyCog,MyCog DCCS Live Item 20,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL21,MyCog,MyCog DCCS Live Item 21,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL22,MyCog,MyCog DCCS Live Item 22,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL23,MyCog,MyCog DCCS Live Item 23,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL24,MyCog,MyCog DCCS Live Item 24,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL25,MyCog,MyCog DCCS Live Item 25,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL26,MyCog,MyCog DCCS Live Item 26,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL27,MyCog,MyCog DCCS Live Item 27,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL28,MyCog,MyCog DCCS Live Item 28,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL29,MyCog,MyCog DCCS Live Item 29,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_DCCS_MIXED_TRIAL30,MyCog,MyCog DCCS Live Item 30,Categorical,"0=Incorrect, 1=Correct"
+MYCOG_PSM_Pic1,MyCog,MyCog PSM Live Item 1,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MYCOG_PSM_Pic2,MyCog,MyCog PSM Live Item 2,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MYCOG_PSM_Pic3,MyCog,MyCog PSM Live Item 3,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MYCOG_PSM_Pic4,MyCog,MyCog PSM Live Item 4,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MYCOG_PSM_Pic5,MyCog,MyCog PSM Live Item 5,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MYCOG_PSM_Pic6,MyCog,MyCog PSM Live Item 6,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MYCOG_PSM_Pic7,MyCog,MyCog PSM Live Item 7,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MYCOG_PSM_Pic8,MyCog,MyCog PSM Live Item 8,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MYCOG_PSM_Pic9,MyCog,MyCog PSM Live Item 9,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MYCOG_PSM_Pic10,MyCog,MyCog PSM Live Item 10,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MYCOG_PSM_Pic11,MyCog,MyCog PSM Live Item 11,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+MYCOG_PSM_Pic12,MyCog,MyCog PSM Live Item 12,Categorical,"0=Incorrectly placed, 1=Correctly placed"
+WMS_VPA1_RECALL_A_ITEM_1,WMS,WMS IV Verbal Paired Associates I Recall List A Item 1,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_A_ITEM_2,WMS,WMS IV Verbal Paired Associates I Recall List A Item 2,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_A_ITEM_3,WMS,WMS IV Verbal Paired Associates I Recall List A Item 3,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_A_ITEM_4,WMS,WMS IV Verbal Paired Associates I Recall List A Item 4,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_A_ITEM_5,WMS,WMS IV Verbal Paired Associates I Recall List A Item 5,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_A_ITEM_6,WMS,WMS IV Verbal Paired Associates I Recall List A Item 6,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_A_ITEM_7,WMS,WMS IV Verbal Paired Associates I Recall List A Item 7,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_A_ITEM_8,WMS,WMS IV Verbal Paired Associates I Recall List A Item 8,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_A_ITEM_9,WMS,WMS IV Verbal Paired Associates I Recall List A Item 9,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_A_ITEM_10,WMS,WMS IV Verbal Paired Associates I Recall List A Item 10,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_A_ITEM_11,WMS,WMS IV Verbal Paired Associates I Recall List A Item 11,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_A_ITEM_12,WMS,WMS IV Verbal Paired Associates I Recall List A Item 12,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_A_ITEM_13,WMS,WMS IV Verbal Paired Associates I Recall List A Item 13,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_A_ITEM_14,WMS,WMS IV Verbal Paired Associates I Recall List A Item 14,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_B_ITEM_1,WMS,WMS IV Verbal Paired Associates I Recall List B Item 1,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_B_ITEM_2,WMS,WMS IV Verbal Paired Associates I Recall List B Item 2,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_B_ITEM_3,WMS,WMS IV Verbal Paired Associates I Recall List B Item 3,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_B_ITEM_4,WMS,WMS IV Verbal Paired Associates I Recall List B Item 4,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_B_ITEM_5,WMS,WMS IV Verbal Paired Associates I Recall List B Item 5,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_B_ITEM_6,WMS,WMS IV Verbal Paired Associates I Recall List B Item 6,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_B_ITEM_7,WMS,WMS IV Verbal Paired Associates I Recall List B Item 7,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_B_ITEM_8,WMS,WMS IV Verbal Paired Associates I Recall List B Item 8,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_B_ITEM_9,WMS,WMS IV Verbal Paired Associates I Recall List B Item 9,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_B_ITEM_10,WMS,WMS IV Verbal Paired Associates I Recall List B Item 10,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_B_ITEM_11,WMS,WMS IV Verbal Paired Associates I Recall List B Item 11,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_B_ITEM_12,WMS,WMS IV Verbal Paired Associates I Recall List B Item 12,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_B_ITEM_13,WMS,WMS IV Verbal Paired Associates I Recall List B Item 13,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_B_ITEM_14,WMS,WMS IV Verbal Paired Associates I Recall List B Item 14,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_C_ITEM_1,WMS,WMS IV Verbal Paired Associates I Recall List C Item 1,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_C_ITEM_2,WMS,WMS IV Verbal Paired Associates I Recall List C Item 2,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_C_ITEM_3,WMS,WMS IV Verbal Paired Associates I Recall List C Item 3,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_C_ITEM_4,WMS,WMS IV Verbal Paired Associates I Recall List C Item 4,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_C_ITEM_5,WMS,WMS IV Verbal Paired Associates I Recall List C Item 5,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_C_ITEM_6,WMS,WMS IV Verbal Paired Associates I Recall List C Item 6,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_C_ITEM_7,WMS,WMS IV Verbal Paired Associates I Recall List C Item 7,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_C_ITEM_8,WMS,WMS IV Verbal Paired Associates I Recall List C Item 8,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_C_ITEM_9,WMS,WMS IV Verbal Paired Associates I Recall List C Item 9,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_C_ITEM_10,WMS,WMS IV Verbal Paired Associates I Recall List C Item 10,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_C_ITEM_11,WMS,WMS IV Verbal Paired Associates I Recall List C Item 11,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_C_ITEM_12,WMS,WMS IV Verbal Paired Associates I Recall List C Item 12,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_C_ITEM_13,WMS,WMS IV Verbal Paired Associates I Recall List C Item 13,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_C_ITEM_14,WMS,WMS IV Verbal Paired Associates I Recall List C Item 14,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_D_ITEM_1,WMS,WMS IV Verbal Paired Associates I Recall List D Item 1,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_D_ITEM_2,WMS,WMS IV Verbal Paired Associates I Recall List D Item 2,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_D_ITEM_3,WMS,WMS IV Verbal Paired Associates I Recall List D Item 3,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_D_ITEM_4,WMS,WMS IV Verbal Paired Associates I Recall List D Item 4,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_D_ITEM_5,WMS,WMS IV Verbal Paired Associates I Recall List D Item 5,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_D_ITEM_6,WMS,WMS IV Verbal Paired Associates I Recall List D Item 6,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_D_ITEM_7,WMS,WMS IV Verbal Paired Associates I Recall List D Item 7,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_D_ITEM_8,WMS,WMS IV Verbal Paired Associates I Recall List D Item 8,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_D_ITEM_9,WMS,WMS IV Verbal Paired Associates I Recall List D Item 9,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_D_ITEM_10,WMS,WMS IV Verbal Paired Associates I Recall List D Item 10,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_D_ITEM_11,WMS,WMS IV Verbal Paired Associates I Recall List D Item 11,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_D_ITEM_12,WMS,WMS IV Verbal Paired Associates I Recall List D Item 12,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_D_ITEM_13,WMS,WMS IV Verbal Paired Associates I Recall List D Item 13,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA1_RECALL_D_ITEM_14,WMS,WMS IV Verbal Paired Associates I Recall List D Item 14,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_SAMPLE_A_TRIAL_1,WAIS,WAIS IV Letter Number Sequencing Sample Item A Trial 1,Categorical,"I=Incorrect, C=Correct"
+WAIS_LNS_ITEM_1_TRIAL_1,WAIS,WAIS IV Letter Number Sequencing Item 1 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_1_TRIAL_2,WAIS,WAIS IV Letter Number Sequencing Item 1 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_1_TRIAL_3,WAIS,WAIS IV Letter Number Sequencing Item 1 Trial 3,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_2_TRIAL_1,WAIS,WAIS IV Letter Number Sequencing Item 2 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_2_TRIAL_2,WAIS,WAIS IV Letter Number Sequencing Item 2 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_2_TRIAL_3,WAIS,WAIS IV Letter Number Sequencing Item 2 Trial 3,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_SAMPLE_B_TRIAL_1,WAIS,WAIS IV Letter Number Sequencing Sample Item B Trial 1,Categorical,"I=Incorrect, C=Correct"
+WAIS_LNS_SAMPLE_B_TRIAL_2,WAIS,WAIS IV Letter Number Sequencing Sample Item B Trial 2,Categorical,"I=Incorrect, C=Correct"
+WAIS_LNS_ITEM_3_TRIAL_1,WAIS,WAIS IV Letter Number Sequencing Item 3 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_3_TRIAL_2,WAIS,WAIS IV Letter Number Sequencing Item 3 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_3_TRIAL_3,WAIS,WAIS IV Letter Number Sequencing Item 3 Trial 3,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_4_TRIAL_1,WAIS,WAIS IV Letter Number Sequencing Item 4 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_4_TRIAL_2,WAIS,WAIS IV Letter Number Sequencing Item 4 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_4_TRIAL_3,WAIS,WAIS IV Letter Number Sequencing Item 4 Trial 3,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_5_TRIAL_1,WAIS,WAIS IV Letter Number Sequencing Item 5 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_5_TRIAL_2,WAIS,WAIS IV Letter Number Sequencing Item 5 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_5_TRIAL_3,WAIS,WAIS IV Letter Number Sequencing Item 5 Trial 3,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_6_TRIAL_1,WAIS,WAIS IV Letter Number Sequencing Item 6 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_6_TRIAL_2,WAIS,WAIS IV Letter Number Sequencing Item 6 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_6_TRIAL_3,WAIS,WAIS IV Letter Number Sequencing Item 6 Trial 3,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_7_TRIAL_1,WAIS,WAIS IV Letter Number Sequencing Item 7 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_7_TRIAL_2,WAIS,WAIS IV Letter Number Sequencing Item 7 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_7_TRIAL_3,WAIS,WAIS IV Letter Number Sequencing Item 7 Trial 3,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_8_TRIAL_1,WAIS,WAIS IV Letter Number Sequencing Item 8 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_8_TRIAL_2,WAIS,WAIS IV Letter Number Sequencing Item 8 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_8_TRIAL_3,WAIS,WAIS IV Letter Number Sequencing Item 8 Trial 3,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_9_TRIAL_1,WAIS,WAIS IV Letter Number Sequencing Item 9 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_9_TRIAL_2,WAIS,WAIS IV Letter Number Sequencing Item 9 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_9_TRIAL_3,WAIS,WAIS IV Letter Number Sequencing Item 9 Trial 3,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_10_TRIAL_1,WAIS,WAIS IV Letter Number Sequencing Item 10 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_10_TRIAL_2,WAIS,WAIS IV Letter Number Sequencing Item 10 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_LNS_ITEM_10_TRIAL_3,WAIS,WAIS IV Letter Number Sequencing Item 10 Trial 3,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_1_TRIAL_1,WAIS,WAIS IV Digit Span Forward Item 1 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_1_TRIAL_2,WAIS,WAIS IV Digit Span Forward Item 1 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_2_TRIAL_1,WAIS,WAIS IV Digit Span Forward Item 2 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_2_TRIAL_2,WAIS,WAIS IV Digit Span Forward Item 2 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_3_TRIAL_1,WAIS,WAIS IV Digit Span Forward Item 3 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_3_TRIAL_2,WAIS,WAIS IV Digit Span Forward Item 3 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_4_TRIAL_1,WAIS,WAIS IV Digit Span Forward Item 4 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_4_TRIAL_2,WAIS,WAIS IV Digit Span Forward Item 4 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_5_TRIAL_1,WAIS,WAIS IV Digit Span Forward Item 5 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_5_TRIAL_2,WAIS,WAIS IV Digit Span Forward Item 5 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_6_TRIAL_1,WAIS,WAIS IV Digit Span Forward Item 6 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_6_TRIAL_2,WAIS,WAIS IV Digit Span Forward Item 6 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_7_TRIAL_1,WAIS,WAIS IV Digit Span Forward Item 7 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_7_TRIAL_2,WAIS,WAIS IV Digit Span Forward Item 7 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_8_TRIAL_1,WAIS,WAIS IV Digit Span Forward Item 8 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_FWRD_ITEM_8_TRIAL_2,WAIS,WAIS IV Digit Span Forward Item 8 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SAMPLE_BKWRD_TRIAL_1,WAIS,WAIS IV Digit Span Backward Sample Item Trial 1,Categorical,"I=Incorrect, C=Correct"
+WAIS_DIGIT_SPAN_SAMPLE_BKWRD_TRIAL_2,WAIS,WAIS IV Digit Span Backward Sample Item Trial 2,Categorical,"I=Incorrect, C=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_1_TRIAL_1,WAIS,WAIS IV Digit Span Backward Item 1 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_1_TRIAL_2,WAIS,WAIS IV Digit Span Backward Item 1 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_2_TRIAL_1,WAIS,WAIS IV Digit Span Backward Item 2 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_2_TRIAL_2,WAIS,WAIS IV Digit Span Backward Item 2 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_3_TRIAL_1,WAIS,WAIS IV Digit Span Backward Item 3 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_3_TRIAL_2,WAIS,WAIS IV Digit Span Backward Item 3 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_4_TRIAL_1,WAIS,WAIS IV Digit Span Backward Item 4 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_4_TRIAL_2,WAIS,WAIS IV Digit Span Backward Item 4 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_5_TRIAL_1,WAIS,WAIS IV Digit Span Backward Item 5 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_5_TRIAL_2,WAIS,WAIS IV Digit Span Backward Item 5 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_6_TRIAL_1,WAIS,WAIS IV Digit Span Backward Item 6 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_6_TRIAL_2,WAIS,WAIS IV Digit Span Backward Item 6 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_7_TRIAL_1,WAIS,WAIS IV Digit Span Backward Item 7 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_7_TRIAL_2,WAIS,WAIS IV Digit Span Backward Item 7 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_8_TRIAL_1,WAIS,WAIS IV Digit Span Backward Item 8 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_BKWRD_ITEM_8_TRIAL_2,WAIS,WAIS IV Digit Span Backward Item 8 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQUENCING_SAMPLE_TRIAL_1,WAIS,WAIS IV Digit Span Sequencing Sample Item Trial 1,Categorical,"I=Incorrect, C=Correct"
+WAIS_DIGIT_SPAN_SEQUENCING_SAMPLE_TRIAL_2,WAIS,WAIS IV Digit Span Sequencing Sample Item Trial 2,Categorical,"I=Incorrect, C=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_1_TRIAL_1,WAIS,WAIS IV Digit Span Sequencing Item 1 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_1_TRIAL_2,WAIS,WAIS IV Digit Span Sequencing Item 1 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_2_TRIAL_1,WAIS,WAIS IV Digit Span Sequencing Item 2 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_2_TRIAL_2,WAIS,WAIS IV Digit Span Sequencing Item 2 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_3_TRIAL_1,WAIS,WAIS IV Digit Span Sequencing Item 3 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_3_TRIAL_2,WAIS,WAIS IV Digit Span Sequencing Item 3 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_4_TRIAL_1,WAIS,WAIS IV Digit Span Sequencing Item 4 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_4_TRIAL_2,WAIS,WAIS IV Digit Span Sequencing Item 4 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_5_TRIAL_1,WAIS,WAIS IV Digit Span Sequencing Item 5 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_5_TRIAL_2,WAIS,WAIS IV Digit Span Sequencing Item 5 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_6_TRIAL_1,WAIS,WAIS IV Digit Span Sequencing Item 6 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_6_TRIAL_2,WAIS,WAIS IV Digit Span Sequencing Item 6 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_7_TRIAL_1,WAIS,WAIS IV Digit Span Sequencing Item 7 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_7_TRIAL_2,WAIS,WAIS IV Digit Span Sequencing Item 7 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_8_TRIAL_1,WAIS,WAIS IV Digit Span Sequencing Item 8 Trial 1,Categorical,"0=Incorrect, 1=Correct"
+WAIS_DIGIT_SPAN_SEQ_ITEM_8_TRIAL_2,WAIS,WAIS IV Digit Span Sequencing Item 8 Trial 2,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_DELAYED_RECALL_ITEM_1,WMS,WMS Verbal Paired Associates II Delayed Recall Item 1,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_DELAYED_RECALL_ITEM_2,WMS,WMS Verbal Paired Associates II Delayed Recall Item 2,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_DELAYED_RECALL_ITEM_3,WMS,WMS Verbal Paired Associates II Delayed Recall Item 3,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_DELAYED_RECALL_ITEM_4,WMS,WMS Verbal Paired Associates II Delayed Recall Item 4,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_DELAYED_RECALL_ITEM_5,WMS,WMS Verbal Paired Associates II Delayed Recall Item 5,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_DELAYED_RECALL_ITEM_6,WMS,WMS Verbal Paired Associates II Delayed Recall Item 6,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_DELAYED_RECALL_ITEM_7,WMS,WMS Verbal Paired Associates II Delayed Recall Item 7,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_DELAYED_RECALL_ITEM_8,WMS,WMS Verbal Paired Associates II Delayed Recall Item 8,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_DELAYED_RECALL_ITEM_9,WMS,WMS Verbal Paired Associates II Delayed Recall Item 9,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_DELAYED_RECALL_ITEM_10,WMS,WMS Verbal Paired Associates II Delayed Recall Item 10,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_DELAYED_RECALL_ITEM_11,WMS,WMS Verbal Paired Associates II Delayed Recall Item 11,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_DELAYED_RECALL_ITEM_12,WMS,WMS Verbal Paired Associates II Delayed Recall Item 12,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_DELAYED_RECALL_ITEM_13,WMS,WMS Verbal Paired Associates II Delayed Recall Item 13,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_DELAYED_RECALL_ITEM_14,WMS,WMS Verbal Paired Associates II Delayed Recall Item 14,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_1,WMS,WMS Verbal Paired Associates II Recognition Item 1,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_2,WMS,WMS Verbal Paired Associates II Recognition Item 2,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_3,WMS,WMS Verbal Paired Associates II Recognition Item 3,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_4,WMS,WMS Verbal Paired Associates II Recognition Item 4,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_5,WMS,WMS Verbal Paired Associates II Recognition Item 5,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_6,WMS,WMS Verbal Paired Associates II Recognition Item 6,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_7,WMS,WMS Verbal Paired Associates II Recognition Item 7,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_8,WMS,WMS Verbal Paired Associates II Recognition Item 8,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_9,WMS,WMS Verbal Paired Associates II Recognition Item 9,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_10,WMS,WMS Verbal Paired Associates II Recognition Item 10,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_11,WMS,WMS Verbal Paired Associates II Recognition Item 11,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_12,WMS,WMS Verbal Paired Associates II Recognition Item 12,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_13,WMS,WMS Verbal Paired Associates II Recognition Item 13,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_14,WMS,WMS Verbal Paired Associates II Recognition Item 14,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_15,WMS,WMS Verbal Paired Associates II Recognition Item 15,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_16,WMS,WMS Verbal Paired Associates II Recognition Item 16,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_17,WMS,WMS Verbal Paired Associates II Recognition Item 17,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_18,WMS,WMS Verbal Paired Associates II Recognition Item 18,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_19,WMS,WMS Verbal Paired Associates II Recognition Item 19,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_20,WMS,WMS Verbal Paired Associates II Recognition Item 20,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_21,WMS,WMS Verbal Paired Associates II Recognition Item 21,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_22,WMS,WMS Verbal Paired Associates II Recognition Item 22,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_23,WMS,WMS Verbal Paired Associates II Recognition Item 23,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_24,WMS,WMS Verbal Paired Associates II Recognition Item 24,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_25,WMS,WMS Verbal Paired Associates II Recognition Item 25,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_26,WMS,WMS Verbal Paired Associates II Recognition Item 26,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_27,WMS,WMS Verbal Paired Associates II Recognition Item 27,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_28,WMS,WMS Verbal Paired Associates II Recognition Item 28,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_29,WMS,WMS Verbal Paired Associates II Recognition Item 29,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_30,WMS,WMS Verbal Paired Associates II Recognition Item 30,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_31,WMS,WMS Verbal Paired Associates II Recognition Item 31,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_32,WMS,WMS Verbal Paired Associates II Recognition Item 32,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_33,WMS,WMS Verbal Paired Associates II Recognition Item 33,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_34,WMS,WMS Verbal Paired Associates II Recognition Item 34,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_35,WMS,WMS Verbal Paired Associates II Recognition Item 35,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_36,WMS,WMS Verbal Paired Associates II Recognition Item 36,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_37,WMS,WMS Verbal Paired Associates II Recognition Item 37,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_38,WMS,WMS Verbal Paired Associates II Recognition Item 38,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_39,WMS,WMS Verbal Paired Associates II Recognition Item 39,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_RECOGNITION_ITEM_40,WMS,WMS Verbal Paired Associates II Recognition Item 40,Categorical,"0=Incorrect, 1=Correct"
+WMS_VPA2_WORD_RECALL_RAW,WMS,WMS Verbal Paired Associates II Word Recall Raw Score,Integer,
+DKEFS_INTERFERENCE_COND_1_PRAC_RAW,DKEFS,D-KEFS Color-Word Interference Test Condition 1 Color Naming Practice Item Raw Score,Integer,
+DKEFS_INTERFERENCE_COND_1_PRAC_TIME,DKEFS,D-KEFS Color-Word Interference Test Condition 1 Color Naming Practice Item Completion Time,Integer,
+DKEFS_INTERFERENCE_COND_1_PRAC_UNCORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 1 Color Naming Practice Item Uncorrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_1_PRAC_CORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 1 Color Naming Practice Item Self-Corrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_1_PRAC_EVENTS,DKEFS,D-KEFS Color-Word Interference Test Condition 1 Color Naming Practice Item Events,String,
+DKEFS_INTERFERENCE_COND_1_TEST_RAW,DKEFS,D-KEFS Color-Word Interference Test Condition 1 Color Naming Test Item Raw Score,Integer,
+DKEFS_INTERFERENCE_COND_1_TEST_TIME,DKEFS,D-KEFS Color-Word Interference Test Condition 1 Color Naming Test Item Completion Time,Integer,
+DKEFS_INTERFERENCE_COND_1_TEST_UNCORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 1 Color Naming Test Item Uncorrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_1_TEST_CORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 1 Color Naming Test Item Self-Corrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_1_TEST_EVENTS,DKEFS,D-KEFS Color-Word Interference Test Condition 1 Color Naming Practice Item Events,String,
+DKEFS_INTERFERENCE_COND_2_PRAC_RAW,DKEFS,D-KEFS Color-Word Interference Test Condition 2 Word Reading Practice Item Raw Score,Integer,
+DKEFS_INTERFERENCE_COND_2_PRAC_TIME,DKEFS,D-KEFS Color-Word Interference Test Condition 2 Word Reading Practice Item Completion Time,Integer,
+DKEFS_INTERFERENCE_COND_2_PRAC_UNCORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 2 Word Reading Practice Item Uncorrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_2_PRAC_CORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 2 Word Reading Practice Item Self-Corrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_2_PRAC_EVENTS,DKEFS,D-KEFS Color-Word Interference Test Condition 2 Word Reading Practice Item Events,String,
+DKEFS_INTERFERENCE_COND_2_TEST_RAW,DKEFS,D-KEFS Color-Word Interference Test Condition 2 Word Reading Test Item Raw Score,Integer,
+DKEFS_INTERFERENCE_COND_2_TEST_TIME,DKEFS,D-KEFS Color-Word Interference Test Condition 2 Word Reading Test Item Completion Time,Integer,
+DKEFS_INTERFERENCE_COND_2_TEST_UNCORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 2 Word Reading Test Item Uncorrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_2_TEST_CORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 2 Word Reading Test Item Self-Corrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_2_TEST_EVENTS,DKEFS,D-KEFS Color-Word Interference Test Condition 2 Word Reading Test Item Events,String,
+DKEFS_INTERFERENCE_COND_3_PRAC_RAW,DKEFS,D-KEFS Color-Word Interference Test Condition 3 Inhibition Practice Item Raw Score,Integer,
+DKEFS_INTERFERENCE_COND_3_PRAC_TIME,DKEFS,D-KEFS Color-Word Interference Test Condition 3 Inhibition Practice Item Completion Time,Integer,
+DKEFS_INTERFERENCE_COND_3_PRAC_UNCORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 3 Inhibition Practice Item Uncorrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_3_PRAC_CORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 3 Inhibition Practice Item Self-Corrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_3_PRAC_EVENTS,DKEFS,D-KEFS Color-Word Interference Test Condition 3 Inhibition Practice Item Events,String,
+DKEFS_INTERFERENCE_COND_3_TEST_RAW,DKEFS,D-KEFS Color-Word Interference Test Condition 3 Inhibition Test Item Raw Score,Integer,
+DKEFS_INTERFERENCE_COND_3_TEST_TIME,DKEFS,D-KEFS Color-Word Interference Test Condition 3 Inhibition Test Item Completion Time,Integer,
+DKEFS_INTERFERENCE_COND_3_TEST_UNCORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 3 Inhibition Test Item Uncorrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_3_TEST_CORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 3 Inhibition Test Item Self-Corrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_3_TEST_EVENTS,DKEFS,D-KEFS Color-Word Interference Test Condition 3 Inhibition Test Item Events,String,
+DKEFS_INTERFERENCE_COND_4_PRAC_RAW,DKEFS,D-KEFS Color-Word Interference Test Condition 4 Inhibition/Switching Practice Item Raw Score,Integer,
+DKEFS_INTERFERENCE_COND_4_PRAC_TIME,DKEFS,D-KEFS Color-Word Interference Test Condition 4 Inhibition/Switching Practice Item Completion Time,Integer,
+DKEFS_INTERFERENCE_COND_4_PRAC_UNCORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 4 Inhibition/Switching Practice Item Uncorrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_4_PRAC_CORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 4 Inhibition/Switching Practice Item Self-Corrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_4_PRAC_EVENTS,DKEFS,D-KEFS Color-Word Interference Test Condition 4 Inhibition/Switching Practice Item Events,String,
+DKEFS_INTERFERENCE_COND_4_TEST_RAW,DKEFS,D-KEFS Color-Word Interference Test Condition 4 Inhibition/Switching Test Item Raw Score,Integer,
+DKEFS_INTERFERENCE_COND_4_TEST_TIME,DKEFS,D-KEFS Color-Word Interference Test Condition 4 Inhibition/Switching Test Item Completion Time,Integer,
+DKEFS_INTERFERENCE_COND_4_TEST_UNCORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 4 Inhibition/Switching Test Item Uncorrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_4_TEST_CORR_ERR,DKEFS,D-KEFS Color-Word Interference Test Condition 4 Inhibition/Switching Test Item Self-Corrected Errors,Integer,
+DKEFS_INTERFERENCE_COND_4_TEST_EVENTS,DKEFS,D-KEFS Color-Word Interference Test Condition 4 Inhibition/Switching Test Item Events,String,
+DKEFS_TRAIL_COND_1_PRAC_TIME,DKEFS,D-KEFS Trail Making Test Condition 1 Visual Scanning Practice Item Completion Time,Integer,
+DKEFS_TRAIL_COND_1_PRAC_OMISSION,DKEFS,D-KEFS Trail Making Test Condition 1 Visual Scanning Practice Item Omission Errors,Integer,
+DKEFS_TRAIL_COND_1_PRAC_COMMISSION,DKEFS,D-KEFS Trail Making Test Condition 1 Visual Scanning Practice Item Commission Errors,Integer,
+DKEFS_TRAIL_COND_1_PRAC_EVENTS,DKEFS,D-KEFS Trail Making Test Condition 1 Visual Scanning Practice Item Events,String,
+DKEFS_TRAIL_COND_1_TEST_TIME,DKEFS,D-KEFS Trail Making Test Condition 1 Visual Scanning Test Item Completion Time,Integer,
+DKEFS_TRAIL_COND_1_TEST_OMISSION_ERR,DKEFS,D-KEFS Trail Making Test Condition 1 Visual Scanning Test Item Omission Errors,Integer,
+DKEFS_TRAIL_COND_1_TEST_COMMISSION_ERR,DKEFS,D-KEFS Trail Making Test Condition 1 Visual Scanning Test Item Commission Errors,Integer,
+DKEFS_TRAIL_COND_1_TEST_EVENTS,DKEFS,D-KEFS Trail Making Test Condition 1 Visual Scanning Test Item Events,String,
+DKEFS_TRAIL_COND_2_PRAC_TIME,DKEFS,D-KEFS Trail Making Test Condition 2 Number Sequencing Practice Item Completion Time,Integer,
+DKEFS_TRAIL_COND_2_PRAC_SET_LOSS_ERR,DKEFS,D-KEFS Trail Making Test Condition 2 Number Sequencing Practice Item Set Loss Errors,Integer,
+DKEFS_TRAIL_COND_2_PRAC_TIME_DISCON_ERR,DKEFS,D-KEFS Trail Making Test Condition 2 Number Sequencing Practice Item Time Discontinue Errors,Integer,
+DKEFS_TRAIL_COND_2_PRAC_SEQUENCING_ERR,DKEFS,D-KEFS Trail Making Test Condition 2 Number Sequencing Practice Item Sequencing Errors,Integer,
+DKEFS_TRAIL_COND_2_PRAC_EVENTS,DKEFS,D-KEFS Trail Making Test Condition 2 Number Sequencing Practice Item Events,String,
+DKEFS_TRAIL_COND_2_TEST_TIME,DKEFS,D-KEFS Trail Making Test Condition 2 Number Sequencing Test Item Completion Time,Integer,
+DKEFS_TRAIL_COND_2_TEST_SET_LOSS_ERR,DKEFS,D-KEFS Trail Making Test Condition 2 Number Sequencing Test Item Set Loss Errors,Integer,
+DKEFS_TRAIL_COND_2_TEST_TIME_DISCON_ERR,DKEFS,D-KEFS Trail Making Test Condition 2 Number Sequencing Test Item Time Discontinue Errors,Integer,
+DKEFS_TRAIL_COND_2_TEST_SEQUENCING_ERR,DKEFS,D-KEFS Trail Making Test Condition 2 Number Sequencing Test Item Sequencing Errors,Integer,
+DKEFS_TRAIL_COND_2_TEST_EVENTS,DKEFS,D-KEFS Trail Making Test Condition 2 Number Sequencing Test Item Events,String,
+DKEFS_TRAIL_COND_3_PRAC_TIME,DKEFS,D-KEFS Trail Making Test Condition 3 Letter Sequencing Practice Item Completion Time,Integer,
+DKEFS_TRAIL_COND_3_PRAC_SET_LOSS_ERR,DKEFS,D-KEFS Trail Making Test Condition 3 Letter Sequencing Practice Item Set Loss Errors,Integer,
+DKEFS_TRAIL_COND_3_PRAC_TIME_DISCON_ERR,DKEFS,D-KEFS Trail Making Test Condition 3 Letter Sequencing Practice Item Time Discontinue Errors,Integer,
+DKEFS_TRAIL_COND_3_PRAC_SEQUENCING_ERR,DKEFS,D-KEFS Trail Making Test Condition 3 Letter Sequencing Practice Item Sequencing Errors,Integer,
+DKEFS_TRAIL_COND_3_PRAC_EVENTS,DKEFS,D-KEFS Trail Making Test Condition 3 Letter Sequencing Practice Item Events,String,
+DKEFS_TRAIL_COND_3_TEST_TIME,DKEFS,D-KEFS Trail Making Test Condition 3 Letter Sequencing Test Item Completion Time,Integer,
+DKEFS_TRAIL_COND_3_TEST_SET_LOSS_ERR,DKEFS,D-KEFS Trail Making Test Condition 3 Letter Sequencing Test Item Set Loss Errors,Integer,
+DKEFS_TRAIL_COND_3_TEST_TIME_DISCON_ERR,DKEFS,D-KEFS Trail Making Test Condition 3 Letter Sequencing Test Item Time Discontinue Errors,Integer,
+DKEFS_TRAIL_COND_3_TEST_SEQUENCING_ERR,DKEFS,D-KEFS Trail Making Test Condition 3 Letter Sequencing Test Item Sequencing Errors,Integer,
+DKEFS_TRAIL_COND_3_TEST_EVENTS,DKEFS,D-KEFS Trail Making Test Condition 3 Letter Sequencing Test Item Events,String,
+DKEFS_TRAIL_COND_4_PRAC_TIME,DKEFS,D-KEFS Trail Making Test Condition 4 Number-Letter Switching Practice Item Completion Time,Integer,
+DKEFS_TRAIL_COND_4_PRAC_SET_LOSS_ERR,DKEFS,D-KEFS Trail Making Test Condition 4 Number-Letter Switching Practice Item Set Loss Errors,Integer,
+DKEFS_TRAIL_COND_4_PRAC_TIME_DISCON_ERR,DKEFS,D-KEFS Trail Making Test Condition 4 Number-Letter Switching Practice Item Time Discontinue Errors,Integer,
+DKEFS_TRAIL_COND_4_PRAC_SEQUENCING_ERR,DKEFS,D-KEFS Trail Making Test Condition 4 Number-Letter Switching Practice Item Sequencing Errors,Integer,
+DKEFS_TRAIL_COND_4_PRAC_TOTAL_ERR,DKEFS,D-KEFS Trail Making Test Condition 4 Number-Letter Switching Practice Item Total Errors,Integer,
+DKEFS_TRAIL_COND_4_PRAC_EVENTS,DKEFS,D-KEFS Trail Making Test Condition 4 Number-Letter Switching Practice Item Events,String,
+DKEFS_TRAIL_COND_4_TEST_TIME,DKEFS,D-KEFS Trail Making Test Condition 4 Number-Letter Switching Test Item Completion Time,Integer,
+DKEFS_TRAIL_COND_4_TEST_SET_LOSS_ERR,DKEFS,D-KEFS Trail Making Test Condition 4 Number-Letter Switching Test Item Set Loss Errors,Integer,
+DKEFS_TRAIL_COND_4_TEST_TIME_DISCON_ERR,DKEFS,D-KEFS Trail Making Test Condition 4 Number-Letter Switching Test Item Time Discontinue Errors,Integer,
+DKEFS_TRAIL_COND_4_TEST_SEQUENCING_ERR,DKEFS,D-KEFS Trail Making Test Condition 4 Number-Letter Switching Test Item Sequencing Errors,Integer,
+DKEFS_TRAIL_COND_4_TEST_TOTAL_ERR,DKEFS,D-KEFS Trail Making Test Condition 4 Number-Letter Switching Test Item Total Errors,Integer,
+DKEFS_TRAIL_COND_4_TEST_EVENTS,DKEFS,D-KEFS Trail Making Test Condition 4 Number-Letter Switching Test Item Events,String,
+DKEFS_TRAIL_COND_5_PRAC_TIME,DKEFS,D-KEFS Trail Making Test Condition 5 Motor Speed Practice Item Completion Time,Integer,
+DKEFS_TRAIL_COND_5_PRAC_TIME_DISCON_ERR,DKEFS,D-KEFS Trail Making Test Condition 5 Motor Speed Practice Item Time Discontinue Errors,Integer,
+DKEFS_TRAIL_COND_5_PRAC_EVENTS,DKEFS,D-KEFS Trail Making Test Condition 5 Motor Speed Practice Item Events,String,
+DKEFS_TRAIL_COND_5_TEST_TIME,DKEFS,D-KEFS Trail Making Test Condition 5 Motor Speed Test Item Completion Time,Integer,
+DKEFS_TRAIL_COND_5_TEST_TIME_DISCON_ERR,DKEFS,D-KEFS Trail Making Test Condition 5 Motor Speed Test Item Time Discontinue Errors,Integer,
+DKEFS_TRAIL_COND_5_TEST_EVENTS,DKEFS,D-KEFS Trail Making Test Condition 5 Motor Speed Test Item Events,String,

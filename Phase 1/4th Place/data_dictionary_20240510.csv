@@ -1,0 +1,20 @@
+﻿Variable_Name,Text,Code,Units,Instrument
+PTID,Participant ID,,,target_and_other_predictor.csv
+Age,Age,,,target_and_other_predictor.csv
+Sex,self-reported gender,1=male; 2=female,,target_and_other_predictor.csv
+Educ,Years of education,,,target_and_other_predictor.csv
+fMRI_Date,fMRI session date,,,target_and_other_predictor.csv
+CDGLOBAL,Global CDR Score,"0 = cognitively healthy,0.5 = very mild dementia,1 = mild dementia,2 = moderate dementia,3 = severe dementia",,target_and_other_predictor.csv
+CDR_SOB,CDR sum of boxes score,0-18,,target_and_other_predictor.csv
+Clinical_Date,CDR assessment date,,,target_and_other_predictor.csv
+FD_prescrub,mean frame-by-frame displacement (FD) before motion scrubbing,,mm,target_and_other_predictor.csv
+FD_postscrub,mean frame-by-frame displacement (FD) after motion scrubbing,,mm,target_and_other_predictor.csv
+NodeID,Network  node ID,,,network_node_information_Chan441_Seitzman61.txt
+MNI_x,MNI space coordinate along the x-axis,,mm,network_node_information_Chan441_Seitzman61.txt
+MNI_y,MNI space coordinate along the y-axis,,mm,network_node_information_Chan441_Seitzman61.txt
+MNI_z,MNI space coordinate along the z-axis,,mm,network_node_information_Chan441_Seitzman61.txt
+SystemLabel_Power2011,Functional system name based on Power et al. 2011,,,network_node_information_Chan441_Seitzman61.txt
+SystemNumber_Power2011,Functional system ID based on Power et al. 2011,,,network_node_information_Chan441_Seitzman61.txt
+Hemipshere,Which hemisphere is the node located in,"L=Left,R=Right",,network_node_information_Chan441_Seitzman61.txt
+Region,Anatomical regions,,,network_node_information_Chan441_Seitzman61.txt
+SystemType_Zhang2023,Functional system type (association vs. sensory-motor) as defined in Zhang et al. 2023,,,network_node_information_Chan441_Seitzman61.txt

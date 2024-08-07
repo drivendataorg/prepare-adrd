@@ -1,0 +1,1 @@
+A public repository with this solution has been made available by the winning team here: [https://github.com/artvolgin/prepare-p3](https://github.com/artvolgin/prepare-p3)

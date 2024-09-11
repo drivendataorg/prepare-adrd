@@ -3,7 +3,7 @@
 
 [<img src='https://s3.amazonaws.com/drivendata-public-assets/prepare-challenge-image-notitle.jpeg'>](https://www.drivendata.org/competitions/group/nih-nia-alzheimers-adrd-competition/)
 
-# PREPARE: Pioneering Research for Early Prediction of Alzheimer's and Related Dementias EUREKA Challenge
+# Phase 1 of the PREPARE: Pioneering Research for Early Prediction of Alzheimer's and Related Dementias EUREKA Challenge
 
 ## Goal of the Competition
 
